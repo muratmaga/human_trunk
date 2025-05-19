@@ -1,0 +1,61 @@
+{
+    "specimenSource": [
+        "Is your data from a commercially acquired organism or from an accessioned specimen (i.e., from a natural history collection)?",
+        "Commercially acquired"
+    ],
+    "iDigBioAccessioned": [
+        "Is your specimen's species in the iDigBio database?",
+        ""
+    ],
+    "iDigBioURL": [
+        "Enter URL from iDigBio:",
+        ""
+    ],
+    "species": [
+        "What is your specimen's species?",
+        "Homo sapiens"
+    ],
+    "biologicalSex": [
+        "What is your specimen's sex?",
+        "Unknown"
+    ],
+    "developmentalStage": [
+        "What is your specimen's developmental stage?",
+        "Adult"
+    ],
+    "modality": [
+        "What is the modality of the acquisition?",
+        "Medical CT"
+    ],
+    "contrastEnhancement": [
+        "Is there contrast enhancement treatment applied to the specimen (iodine, phosphotungstenic acid, gadolinium, casting agents, etc)?",
+        "Yes"
+    ],
+    "imageContents": [
+        "What is in the image?",
+        "Partial specimen"
+    ],
+    "anatomicalAreas": [
+        "What anatomical area(s) is/are present in the scan?",
+        [
+            "Trunk (e.g. body cavity, torso, spine, ribs)",
+            "Pelvic girdle"
+        ]
+    ],
+    "redistributionAcknowledgement": [
+        "Acknowledgement:",
+        [
+            "I have the right to allow redistribution of this data."
+        ]
+    ],
+    "license": [
+        "Choose a license:",
+        "CC BY 4.0 (requires attribution, allows commercial usage)"
+    ],
+    "githubRepoName": [
+        "What should the repository in your github account called? This needs to be unique value for your account.",
+        "human_trunk"
+    ],
+    "scanDimensions": "(441, 321, 215)",
+    "scanSpacing": "(0.7421875, 0.7421875, 1.5)"
+}
